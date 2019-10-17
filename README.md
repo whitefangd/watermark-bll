@@ -10,4 +10,4 @@
 
 `java -jar watermark.jar -D -al LSB -st <image path>.bmp -o <file path>`
 
-> Stego file (-st) only ssupport bitmap image
+> Stego file (-st) only support bitmap image
